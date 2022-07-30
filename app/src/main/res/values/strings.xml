@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AssetTracker</string>
+    <string name="assigned_to_user">Assigned to user</string>
+    <string name="moved_to_place">Moved to place</string>
+    <string name="place_user">Enter place name</string>
+    <string name="cancel">Cancel</string>
+    <string name="send">Send</string>
+    <string name="submit">submit</string>
+    <string name="add_edit_email">Add/Edit email</string>
+    <string name="enter_email">Enter email</string>
+    <string name="setting">Setting</string>
+</resources>
